@@ -1,6 +1,5 @@
-package model;
-
 package com.fiap.ec.backend_consultas.model;
+
 import jakarta.persistence.*;
 @Entity
 @Table(name = "especialidades")
